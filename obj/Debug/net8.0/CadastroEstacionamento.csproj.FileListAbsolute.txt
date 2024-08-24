@@ -1,0 +1,15 @@
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\bin\Debug\net8.0\CadastroEstacionamento.exe
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\bin\Debug\net8.0\CadastroEstacionamento.deps.json
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\bin\Debug\net8.0\CadastroEstacionamento.runtimeconfig.json
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\bin\Debug\net8.0\CadastroEstacionamento.dll
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\bin\Debug\net8.0\CadastroEstacionamento.pdb
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\CadastroEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\CadastroEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\CadastroEstacionamento.AssemblyInfo.cs
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\CadastroEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\CadastroEstacionamento.sourcelink.json
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\CadastroEstacionamento.dll
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\refint\CadastroEstacionamento.dll
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\CadastroEstacionamento.pdb
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\CadastroEstacionamento.genruntimeconfig.cache
+C:\Users\Roberto\Desktop\Roberto 2024\DIO\Boomcamp .NET e React\Desafios\CadastroEstacionamento\obj\Debug\net8.0\ref\CadastroEstacionamento.dll
